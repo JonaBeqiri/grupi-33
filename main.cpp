@@ -131,6 +131,7 @@ while(!gameOver){
 Draw();
 Input();
 lOgic();
+ 
 
 }
 return 0;
