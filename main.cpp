@@ -82,7 +82,7 @@ void Input(){
             break;
             case 'x':
             gameOver=true;
-            break'
+            break;
         }
     }
 }
